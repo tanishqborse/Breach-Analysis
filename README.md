@@ -1,5 +1,7 @@
 # Inject Healthcare Cybersecurity Breach Analysis
 
+*This is a hypothetical scenario given to us by [Prof. Vivian Strover](https://www.linkedin.com/in/viviane-stover-cisa-762714a/) to emulate a cybersecurity breach of the healthcare organization and understand how information security and policies come into play during and after a breach. This is a part of the Information Security and Policies course project at RIT*
+
 ## Overview
 **Inject Healthcare** is a leading healthcare company managing sensitive e-health records of over **5 million** individuals. Operating across the **United States, Italy, and India**, it must comply with various **data protection laws** including **HIPAA, GDPR, and local IT regulations**. Recently, Inject Healthcare suffered a major **cyberattack** exposing sensitive **personally identifiable information (PII) and protected health information (PHI)**.
 
@@ -92,5 +94,5 @@ This repository will be updated with:
 
 ---
 
-For further details, please refer to **[Inject Healthcare Cybersecurity Incident Report]**.
+For further details, please refer to **[Inject Healthcare Cybersecurity Incident Report](https://github.com/tanishqborse/Breach-Analysis/blob/main/injectproject.pptx)**.
 
